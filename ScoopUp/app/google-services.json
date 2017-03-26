@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "901274271691",
+    "project_id": "firebase-scoopup"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:901274271691:android:681dc5af4fcdd933",
+        "android_client_info": {
+          "package_name": "com.akgec.scoopup"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "901274271691-d3u0jc5ccd9cd91t4v53nutnrj06b7nn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.akgec.scoopup",
+            "certificate_hash": "529C332FA42EB93737D36BE3A25EEE6268337F26"
+          }
+        },
+        {
+          "client_id": "901274271691-qa7nl5mtte4a193n0k26r4rlkbuav6mp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBnAQntt5QPXoLv2e3wMo30v9KmJ8ZelZ8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

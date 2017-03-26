@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "282416882673",
+    "project_id": "project-5589901236816500628"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:282416882673:android:1185529723f7180d",
+        "android_client_info": {
+          "package_name": "com.tayal.plusgoogle"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "282416882673-i1rrpo032404dg9si1sl0i0rij4qkokb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.tayal.plusgoogle",
+            "certificate_hash": "529C332FA42EB93737D36BE3A25EEE6268337F26"
+          }
+        },
+        {
+          "client_id": "282416882673-2ek44rbmvgi30obhbb5gjr0gb0opbarv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBOYCNUGfJU4Iwg9Bz1IK2GW_hDjcQ70PQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

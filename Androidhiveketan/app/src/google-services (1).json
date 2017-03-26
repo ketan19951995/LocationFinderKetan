@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "766786163465",
+    "firebase_url": "https://androidhiveketan.firebaseio.com",
+    "project_id": "androidhiveketan",
+    "storage_bucket": "androidhiveketan.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:766786163465:android:99139d73ed96259b",
+        "android_client_info": {
+          "package_name": "com.tayal.androidhiveketan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "766786163465-v12u7b5l090h3gvo7tbiqtau0ruttq96.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.tayal.androidhiveketan",
+            "certificate_hash": "529c332fa42eb93737d36be3a25eee6268337f26"
+          }
+        },
+        {
+          "client_id": "766786163465-ctpo4l4rkgmo24hivvjcab4kniqqo3ig.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDy6OFNfS2fwYBOYsAdT4RJtCKpydB2w_k"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "766786163465-ctpo4l4rkgmo24hivvjcab4kniqqo3ig.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

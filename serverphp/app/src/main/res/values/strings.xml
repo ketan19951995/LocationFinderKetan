@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+<string name="app_name">Serverphp</string>
+<string name="action_settings">Settings</string>
+<string name="hello_world">Hello world!</string>
+
+
+
+        <string name="nameerror">Enter a valid name</string>
+        <string name="emailerror">Enter a valid email</string>
+        <string name="mobileerror">Enter a valid mobile</string>
+        <string name="passworderror">Enter a valid password</string>
+
+
+
+
+</resources>

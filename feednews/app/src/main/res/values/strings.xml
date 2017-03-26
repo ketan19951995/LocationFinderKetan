@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">"feednews "</string>
+    <string name="title_activity_handle_xml">HandleXML</string>
+    <string name="title_activity_second">second</string>
+</resources>
